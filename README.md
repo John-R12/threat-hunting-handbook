@@ -35,7 +35,7 @@ This repository helps you:
 
 ---
 
-## 📚 References
+## 📚 Key References
 - MITRE ATT&CK – *Enterprise, ICS, Mobile*  
 - SANS – *Practical Threat Hunting for SOCs*  
 - NIST SP 800-150 – *Guide to Cyber Threat Information Sharing*  
